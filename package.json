@@ -1,0 +1,20 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "https://sonarcloud.io/summary/overall?id=examly-test_59adc891-784c-4afe-bb7d-763523247d7e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iamneo-production/59adc891-784c-4afe-bb7d-763523247d7e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamneo-production/59adc891-784c-4afe-bb7d-763523247d7e/issues"
+  },
+  "homepage": "https://github.com/iamneo-production/59adc891-784c-4afe-bb7d-763523247d7e#readme"
+}
